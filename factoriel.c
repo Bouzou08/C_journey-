@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// this is a comment 
 int main()
 {
     int number, i;
